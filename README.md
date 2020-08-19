@@ -1,8 +1,8 @@
 ### iciba
 ## 爱词霸爬虫，雅思词汇
 
-* 词汇链接:http://word.iciba.com/?action=courses&classid=15
-* 其中千条词汇：
+* 词汇来源链接:http://word.iciba.com/?action=courses&classid=15
+* 其中50条词汇：
 ```json
 {
   "RECORDS": [
